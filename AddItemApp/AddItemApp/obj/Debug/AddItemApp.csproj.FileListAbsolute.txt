@@ -1,0 +1,8 @@
+H:\winfrom-1\AddItemApp\AddItemApp\bin\Debug\AddItemApp.exe.config
+H:\winfrom-1\AddItemApp\AddItemApp\bin\Debug\AddItemApp.exe
+H:\winfrom-1\AddItemApp\AddItemApp\bin\Debug\AddItemApp.pdb
+H:\winfrom-1\AddItemApp\AddItemApp\obj\Debug\AddItemApp.Form1.resources
+H:\winfrom-1\AddItemApp\AddItemApp\obj\Debug\AddItemApp.Properties.Resources.resources
+H:\winfrom-1\AddItemApp\AddItemApp\obj\Debug\AddItemApp.csproj.GenerateResource.Cache
+H:\winfrom-1\AddItemApp\AddItemApp\obj\Debug\AddItemApp.exe
+H:\winfrom-1\AddItemApp\AddItemApp\obj\Debug\AddItemApp.pdb
